@@ -1,0 +1,29 @@
+#tit {
+  background-color: #0F48FF;
+  text-align: center;
+  padding-bottom: 90px;
+  font-style: italic;
+  font-family: sans-serif;
+}
+#kit {
+  background-color: #C2CCC7;
+
+}
+.ten {
+  padding-top: 20px;
+}
+#git {
+  background-color: #00cc89;
+}
+.bit {
+  color: #F3DA6D;
+}
+.lit {
+  color: white;
+}
+.vit {
+  padding-top: 80px;
+}
+h1 {
+  font-size:70px;
+}
